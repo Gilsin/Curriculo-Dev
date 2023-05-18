@@ -1,10 +1,27 @@
 .corpo{background-image: url('imagens/fundo.png');}
-.principal{background-color: rgba(128, 0, 128, 0.575);}
-.foto{height: 10%;
-    width: 10%;
-    margin-left: 70%;}
+.principal{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(179, 189, 189, 0.904);
+    padding: 15px;
+    border-radius: 15px;
+    background-color: rgba(152, 135, 248, 0.247)
+    
+    
+            }
+.foto{height:;
+    width: 15%;
+    margin-right: 30px;
+    float: right;
+    border-radius: 80px 5px;}
         
 #icones img{height: 5%;
 width: 5%;}
-.rodape{background-color: lightskyblue;
-text-align: center;}
+.rodape{background-color: rgba(185, 90, 0, 0.377);
+    color: azure;
+        border-radius: 15px;
+text-align: center;
+}
+h1{background-color: rgb(226, 120, 58);
+    border-radius: 10px;
+    }
+    
